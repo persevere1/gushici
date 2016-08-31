@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: javax.servlet:jsp-api:2.5">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://E:/mavenRepo/javax/servlet/jsp-api/2.5/jsp-api-2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/mavenRepo/javax/servlet/jsp-api/2.5/jsp-api-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
